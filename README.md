@@ -32,7 +32,7 @@ I measured the “AFTER” metrics when the resources were secured by security c
 ## Attack Maps Before Hardening / Security Controls
 ![NSG Allowed Inbound Malicious Flows](https://github.com/Roo87roo/test/blob/main/nsg-malicious-allowed-in%20(before).jpg?raw=true)<br>
 ![Linux Syslog Auth Failures](https://i.imgur.com/G1YgZt6.png)<br>
-![Windows RDP/SMB Auth Failures](https://i.imgur.com/ESr9Dlv.png)<br>
+![Windows RDP/SMB Auth Failures](https://github.com/Roo87roo/test/blob/main/Windows-RDP-AUTH-Fail%20(before).jpg?raw=true)<br>
 
 ## Metrics Before Hardening / Security Controls
 
